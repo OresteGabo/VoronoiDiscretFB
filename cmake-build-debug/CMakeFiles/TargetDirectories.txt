@@ -1,0 +1,5 @@
+/home/oreste/CLionProjects/VoronoiDiscretFB/cmake-build-debug/CMakeFiles/VoronoiDiscretFB.dir
+/home/oreste/CLionProjects/VoronoiDiscretFB/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/oreste/CLionProjects/VoronoiDiscretFB/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/oreste/CLionProjects/VoronoiDiscretFB/cmake-build-debug/CMakeFiles/VoronoiDiscretFB_autogen_timestamp_deps.dir
+/home/oreste/CLionProjects/VoronoiDiscretFB/cmake-build-debug/CMakeFiles/VoronoiDiscretFB_autogen.dir

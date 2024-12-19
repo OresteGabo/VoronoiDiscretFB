@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "VoronoiDiscretFB",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "VoronoiDiscretFB::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-VoronoiDiscretFB-Debug-37a7bfeea7817c12e64d.json",
+					"name" : "VoronoiDiscretFB",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "VoronoiDiscretFB_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-VoronoiDiscretFB_autogen-Debug-ac3536d24c52d7678316.json",
+					"name" : "VoronoiDiscretFB_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "VoronoiDiscretFB_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-VoronoiDiscretFB_autogen_timestamp_deps-Debug-13e9a15b26b8a42dc258.json",
+					"name" : "VoronoiDiscretFB_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/oreste/CLionProjects/VoronoiDiscretFB/cmake-build-debug",
+		"source" : "/home/oreste/CLionProjects/VoronoiDiscretFB"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
